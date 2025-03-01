@@ -82,13 +82,3 @@ This system has a wide range of applications, including:
 
 ---
 
-## Getting Started
-
-### Prerequisites
-- Python 3.x
-- Libraries: NumPy, Pandas, Scikit-learn, TensorFlow/Keras, Matplotlib
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/submerged-sensor-prediction.git
